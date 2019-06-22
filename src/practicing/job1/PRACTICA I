@@ -1,0 +1,18 @@
+
+# (1) acer un programa que solicite una edad y responda la siguinete pregunta.
+# 	  Es menor de edad? (TRUE o FALSE)
+ 
+# (2) Hacer un programa en python que convierta grado Celsius a Fahrenheit
+
+# (3) Realizar un programa en Python que calcule el peso molecular (peso por cantidad de atomos solicitado 
+#     por teclado) de una molecula compuesta de dos elementos
+
+# (4) Realizar un programa en Python que pida por teclado las componentes de dos vectores de tres
+#     dimensiones y muestre su producto escalar. (el producto vectorial resulta de la suma de la 
+#     multiplicacion de cada componente correspondiente)
+
+# (5) Realizar un programa que solicite 4 notas por teclado, la promedie y responda las siguientes preguntas:
+#     Es Sumacumlauder?
+#     Es Magnacumlauder?
+#     Es Cumlauder?
+#     Es ChepaCumlauder?

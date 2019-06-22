@@ -1,0 +1,30 @@
+PRACTICA IV PYTHON
+1. Escriba un programa de Python para sumar todos los elementos de una lista. Ir
+al editor
+2. Escriba un programa de Python para multiplicar todos los elementos de una
+lista.
+3. Escriba un programa de Python para obtener el número más grande de una
+lista.
+4. Escriba un programa de Python para obtener el número más pequeño de una
+lista.
+5. Escriba un programa de Python para contar el número de cadenas en las que la
+longitud de la cadena es 2 o más y el primer y último carácter son los mismos de
+una lista dada de cadenas
+Lista de muestra: ['abc', 'xyz', 'aba', '1221']
+Resultado previsto: 2
+6. Escriba un programa de Python para obtener una lista, ordenada en orden
+creciente por el último elemento en cada tupla de una lista dada de tuplas no
+vacías.
+Lista de muestras: [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
+Resultado esperado: [(2, 1), (1, 2), (2, 3), (4, 4), (2, 5)]
+7. Escriba un programa de Python para eliminar los duplicados de una lista.
+8. Escribir un programa de Python para verificar si una lista está vacía o no.
+9. Escriba un programa Python para clonar o copiar una lista. Ir al editor
+10. Escriba un programa de Python para encontrar la lista de palabras que son
+más largas que n de una lista de palabras dada.
+11. Escribe una función de Python que toma dos listas y devuelve True si tienen al
+menos un miembro común.
+12. Escriba un programa de Python para imprimir una lista específica después de
+eliminar los elementos 0, 4 y 5.
+Lista de muestra: ['Rojo', 'Verde', 'Blanco', 'Negro', 'Rosa', 'Amarillo']
+Salida esperada: ['Verde', 'Blanco', 'Negro']

@@ -1,0 +1,12 @@
+PRACTICA III PYTHON
+
+1- Hacer una función que potencie un número x a la y
+2- Realizar una función que pida por pantalla un número del 1 al 10 y muestre por pantalla el número escrito en letras.
+3- Hacer una función que reciba un año como argumento y retorne
+verdadero si es bisiesto.
+4- Crear una función que evalúe dos números y retorne verdadero si ambos
+números son iguales.
+5- Un número palindrómico se lee igual en ambos sentidos. El palíndromo más
+grande hecho del producto de dos números de 2 dígitos es 9009 = 91 × 99.
+Cree una función que encuentre el palíndromo más grande hecho del
+producto de dos números de 3 dígitos.

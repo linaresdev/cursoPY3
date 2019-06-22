@@ -1,0 +1,25 @@
+## (1) Realizar un programa que solicite al usuario un número indeterminado de
+##     números (mientras se tecleen números que no sean cero). Al salir el programa
+##     debe dar en pantalla el total de números dados y la suma de ellos.
+
+#  (2) Realizar un programa que presente un menú con las siguientes opciones
+#      1- Convertir grados a celcius a Fahrenheit
+#      2- Convertir dólar a pesos
+#      3- Convertir metros a pies
+#      4- Salir
+
+# (3) Hacer un programa que genere las tablas de multiplicar de los números
+#     múltiplos de 5 que hay entre 1 y 1000
+
+# (4) Realizar un programa que reciba por teclado el sueldo de un empleado y le
+# 	  aplique los cálculos de ISR (ver tabla DGII), ARS, y AFP (investigar porcentajes)
+
+# (5) Cree una aplicación de cajero automático para el banco ABC. El cajero tendrá un
+#     límite de billetes descrito a continuación: 9 de 1000, 19 de 500, 99 de 100
+#
+#     El cajero debe solicitar Banco y monto a retirar. Si el banco es ABC el limite de
+#     retiro son 10,000 y 2000 pesos por transacción en caso contrario.
+#
+#     El cajero debe informar si el monto solicitado no puede ser dispensado o si
+#     excede el límite de transacción. Y debe hacer la distribución de los billetes de
+#     acuerdo al monto.
